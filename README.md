@@ -1,0 +1,1 @@
+A basic calculator which can perform some basic arithmetic operations like addition, subtraction, multiplication, or division(depending upon the user input). And give the valid output in nano seconds.
